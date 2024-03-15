@@ -25,7 +25,7 @@ To get started with our Student Blogging Website, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/student-blogging-website.git
+   git clone https://github.com/killerdroid99/igit_hackathon/
    ```
 
 2. **Install Dependencies**: Navigate into the cloned directory and install the necessary dependencies.
